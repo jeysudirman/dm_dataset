@@ -1,0 +1,6 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age
+0,88,75,42,342,39.1,0.344,31
+3,151,54,32,0,53.2,0.759,25
+0,119,64,18,130,67.1,0.319,27
+5,109,76,39,120,30,2.329,32
+2,79,56,26,545,38.7,0.667,58
